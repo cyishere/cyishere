@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/badge/cyishere.dev-hi-ff69b4?style=for-the-badge)][website]
 
+<br />
+
 ## I'm a frontend developer learning to be a fullstack developer.
 
 Currently unemployed, hunting for a job.
@@ -12,11 +14,15 @@ Currently unemployed, hunting for a job.
 - 🎯 2021 Goals: Find a job
 - ⚡ Fun fact: I was a screenplay writer
 
+<br />
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="cyishere.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="cyishere | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<br />
 <br />
 
 ### Languages and Tools:
