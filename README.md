@@ -64,17 +64,3 @@ Currently unemployed, hunting for a job.
 
 [website]: https://cyishere.dev
 [twitter]: https://twitter.com/cyishere
-
-<style>
-  .icon {
-    width: 26px;
-    margin-right: 0.5rem;
-    margin-bottom: 0.5rem;
-  }
-  .icon.gap {
-    margin-right: 1.5rem;
-  }
-  .emoji {
-    margin-right: 0.5rem;
-  }
-</style>
