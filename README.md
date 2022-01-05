@@ -56,11 +56,11 @@ Currently unemployed, hunting for a job.
 
 ### 📕 Latest Blog Posts
 
+- [Put Footer at The Bottom with CSS Flexbox](https://www.cyishere.dev/blog/put-footer-at-the-bottom-with-flexbox)
+- [What I've Learned from Being a Copycat](https://www.cyishere.dev/blog/what-ive-learned-from-being-a-copycat)
 - [Export Multiple Components in Index File](https://www.cyishere.dev/blog/export-multiple-components-in-index-file)
 - [Table of Content for MDX with Next.js](https://www.cyishere.dev/blog/toc-for-mdx-with-nextjs)
 - [Auth with Express and React](https://www.cyishere.dev/blog/auth-with-express-and-react)
-- [Error Handling with Apollo and Prisma](https://www.cyishere.dev/blog/error-handling-with-apollo-and-prisma)
-- [Error Handling with Express.js](https://www.cyishere.dev/blog/error-handling-with-expressjs)
 
 [website]: https://cyishere.dev
 [twitter]: https://twitter.com/cyishere
