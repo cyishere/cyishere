@@ -1,66 +1,23 @@
 ### Hi there, I'm Chen Yang - aka CY. 🖖🏻
 
-[![Website](https://img.shields.io/badge/cyishere.dev-hi-ff69b4?style=for-the-badge)][website]
-
 <br />
 
-## I'm a frontend developer learning to be a fullstack developer.
+## I'm a frontend developer.
 
-Currently unemployed, hunting for a job.
-
-- 🔥 I spend one year catching up on the new tech stacks to prepare to be a qualified developer and have so much fun (I was a frontend develper [10 years ago](https://cyishere.dev))
-- 🐦 Working on a fun Twitter bot
-- 💎 Learning SVG animation
-- 🎯 2021 Goals: Find a job
-- ⚡ Fun fact: I was a screenplay writer
-
-<br />
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="cyishere.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="cyishere | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-<br />
-
-### Languages and Tools:
-
-![HTML](./assets/html.svg)
-![CSS](./assets/css.svg)
-![JavaScript](./assets/javascript.svg)
-![TypeScript](./assets/typescript.svg)
-
-![React](./assets/react.svg)
-![Next.js](./assets/nextjs.svg)
-![Gatsby](./assets/gatsby.svg)
-![Redux](./assets/redux.svg)
-
-![Styled-components](./assets/styled-components.svg)
-![Tailwind CSS](./assets/tailwindcss.svg)
-
-![Node.js](./assets/nodejs.svg)
-![GraphQL](./assets/graphql.svg)
-![Express](./assets/express.svg)
-![Apollo](./assets/apollo.svg)
-
-![Prisma](./assets/prisma.svg)
-![PostgreSQL](./assets/postgresql.svg)
-![MongoDB](./assets/mongodb.svg)
-
-<br />
-<br />
+- 🔥 Since 2020, I've spent two years learning new tech stacks in order to become a qualified developer and have so much fun. (I was a frontend develper [10 years ago](https://cyishere.dev/about).)
+- 🇩🇪 Working on a German learning app;
+- 💎 Learning SVG animation;
+- ⚡ Fun fact: I was a screenplay writer.
 
 ---
 
 ### 📕 Latest Blog Posts
 
-- [Put Footer at The Bottom with CSS Flexbox](https://www.cyishere.dev/blog/put-footer-at-the-bottom-with-flexbox)
-- [What I've Learned from Being a Copycat](https://www.cyishere.dev/blog/what-ive-learned-from-being-a-copycat)
-- [Export Multiple Components in Index File](https://www.cyishere.dev/blog/export-multiple-components-in-index-file)
-- [Table of Content for MDX with Next.js](https://www.cyishere.dev/blog/toc-for-mdx-with-nextjs)
-- [Auth with Express and React](https://www.cyishere.dev/blog/auth-with-express-and-react)
+- [Highlight Nav Link for Curren Page in Astro](https://www.cyishere.dev/blog/astro-active-nav-item)
+- [Set Headers Error with Next.js or Express](https://www.cyishere.dev/blog/set-headers-error-with-nextjs-or-express)
+- [MacOS Monterey Breaks Python, How to Fix it?](https://www.cyishere.dev/blog/fix-python-break)
+- [DDD App: a Neat Tool for Remembering German Nouns](https://www.cyishere.dev/blog/ddd-app-a-neat-tool-for-remembering-german-nouns)
+- [Make GraphQL Codegen Work with Hasura in Next.js](https://www.cyishere.dev/blog/make-graphql-codegen-work-with-hasura-in-nextjs)
 
 [website]: https://cyishere.dev
 [twitter]: https://twitter.com/cyishere
