@@ -9,8 +9,9 @@
 - 💎 Learning SVG animation;
 - ⚡ Fun fact: I was a screenplay writer.
 
-🌐 : https://cyishere.dev
-🐦 : https://twitter.com/cyishere
+🌐  https://cyishere.dev
+
+🐦  https://twitter.com/cyishere
 
 ---
 
