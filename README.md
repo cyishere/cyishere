@@ -9,15 +9,15 @@
 - 💎 Learning SVG animation;
 - ⚡ Fun fact: I was a screenplay writer.
 
+🌐 : https://cyishere.dev
+🐦 : https://twitter.com/cyishere
+
 ---
 
 ### 📕 Latest Blog Posts
 
+- [Highlight Lines in Code Block with Prism.js and MDX](https://www.cyishere.dev/blog/highlight-lines-in-code-block-with-prismjs-and-mdx)
+- [@next/mdx Or next-mdx-remote](https://www.cyishere.dev/blog/next-mdx-or-next-mdx-remote)
+- [Full Bleed within A Constrained Wrapper](https://www.cyishere.dev/blog/full-bleed-within-a-constrained-wrapper)
 - [Highlight Nav Link for Curren Page in Astro](https://www.cyishere.dev/blog/astro-active-nav-item)
 - [Set Headers Error with Next.js or Express](https://www.cyishere.dev/blog/set-headers-error-with-nextjs-or-express)
-- [MacOS Monterey Breaks Python, How to Fix it?](https://www.cyishere.dev/blog/fix-python-break)
-- [DDD App: a Neat Tool for Remembering German Nouns](https://www.cyishere.dev/blog/ddd-app-a-neat-tool-for-remembering-german-nouns)
-- [Make GraphQL Codegen Work with Hasura in Next.js](https://www.cyishere.dev/blog/make-graphql-codegen-work-with-hasura-in-nextjs)
-
-[website]: https://cyishere.dev
-[twitter]: https://twitter.com/cyishere
