@@ -17,8 +17,8 @@
 
 ### 📕 Latest Blog Posts
 
+- [@next/mdx Or next-mdx-remote](https://www.cyishere.dev/blog/next-mdx-or-next-mdx-remote)
+- [Full Bleed within A Constrained Wrapper](https://www.cyishere.dev/blog/full-bleed-within-a-constrained-wrapperhttps://www.cyishere.dev/blog/full-bleed-within-a-constrained-wrapper)
 - [Highlight Lines in Code Block with Prism.js and MDX](https://www.cyishere.dev/blog/highlight-lines-in-code-block-with-prismjs-and-mdx)
 - [@next/mdx Or next-mdx-remote](https://www.cyishere.dev/blog/next-mdx-or-next-mdx-remote)
 - [Full Bleed within A Constrained Wrapper](https://www.cyishere.dev/blog/full-bleed-within-a-constrained-wrapper)
-- [Highlight Nav Link for Curren Page in Astro](https://www.cyishere.dev/blog/astro-active-nav-item)
-- [Set Headers Error with Next.js or Express](https://www.cyishere.dev/blog/set-headers-error-with-nextjs-or-express)
