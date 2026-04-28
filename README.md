@@ -11,14 +11,14 @@
 
 🌐  https://cyishere.dev
 
-🐦  https://twitter.com/cyishere
+🦋  https://bsky.app/profile/cyishere.dev
 
 ---
 
 ### 📕 Latest Blog Posts
 
+- [A Next.js + MDX Starter](https://www.cyishere.dev/blog/nextjs-mdx-starter)
+- [Accessible Typewriter Animations: Using aria-label for Better Screen Reader Experience](https://www.cyishere.dev/blog/a11y-of-typewriter-animation)
+- [Building a Design System in React with styled-components](https://www.cyishere.dev/blog/design-system-with-styled-components)
+- [Why `styled()` Notation Doesn't Work](https://www.cyishere.dev/blog/styled-notation)
 - [Full Bleed within A Constrained Wrapper](https://www.cyishere.dev/blog/full-bleed-within-a-constrained-wrapper)
-- [@next/mdx Or next-mdx-remote](https://www.cyishere.dev/blog/next-mdx-or-next-mdx-remote)
-- [Highlight Lines in Code Block with Prism.js and MDX](https://www.cyishere.dev/blog/highlight-lines-in-code-block-with-prismjs-and-mdx)
-- [Highlight Nav Link for Curren Page in Astro](https://www.cyishere.dev/blog/astro-active-nav-item)
-- [Set Headers Error with Next.js or Express](https://www.cyishere.dev/blog/set-headers-error-with-nextjs-or-express)
