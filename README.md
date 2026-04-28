@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a frontend developer.
+## A frontend developer who also does full-stack stuff
 
 - 🔥 Since 2020, I've spent two years learning new tech stacks in order to become a qualified developer and have so much fun. (I was a frontend develper [10 years ago](https://cyishere.dev/about).)
 - 🇩🇪 Working on a German learning app;
