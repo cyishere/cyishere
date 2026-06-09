@@ -17,8 +17,8 @@
 
 ### 📕 Latest Blog Posts
 
+- [Sync Audio with Text in React](https://www.cyishere.dev/blog/sync-audio-with-text-in-react)
+- [A Practical Example of the CSS :has() Selector](https://www.cyishere.dev/blog/a-practical-example-of-the-css-has-selector)
 - [A Next.js + MDX Starter](https://www.cyishere.dev/blog/nextjs-mdx-starter)
 - [Accessible Typewriter Animations: Using aria-label for Better Screen Reader Experience](https://www.cyishere.dev/blog/a11y-of-typewriter-animation)
 - [Building a Design System in React with styled-components](https://www.cyishere.dev/blog/design-system-with-styled-components)
-- [Why `styled()` Notation Doesn't Work](https://www.cyishere.dev/blog/styled-notation)
-- [Full Bleed within A Constrained Wrapper](https://www.cyishere.dev/blog/full-bleed-within-a-constrained-wrapper)
